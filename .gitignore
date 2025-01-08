@@ -1,0 +1,11 @@
+config.py
+данные — копия.xlsx
+
+__pycache__/
+*.py[cod]
+
+# Файлы конфигурации для venv
+venv/
+.env
+
+.mypy_cache/
